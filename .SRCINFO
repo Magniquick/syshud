@@ -1,8 +1,8 @@
 pkgbase = syshud-git
 	pkgdesc = Simple system status indicator
-	pkgver = 0
+	pkgver = r110.523b7f8
 	pkgrel = 1
-	url = https://github.com/System64fumo/syshud
+	url = https://github.com/Magniquick/syshud
 	arch = x86_64
 	arch = aarch64
 	license = GPL3
@@ -13,7 +13,7 @@ pkgbase = syshud-git
 	depends = libevdev
 	provides = syshud
 	conflicts = syshud
-	source = git+https://github.com/System64fumo/syshud.git
+	source = git+https://github.com/Magniquick/syshud.git
 	sha256sums = SKIP
 
 pkgname = syshud-git
