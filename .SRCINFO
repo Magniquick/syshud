@@ -1,6 +1,6 @@
 pkgbase = syshud-git
 	pkgdesc = Simple system status indicator
-	pkgver = r110.523b7f8
+	pkgver = r113.9744165
 	pkgrel = 1
 	url = https://github.com/Magniquick/syshud
 	arch = x86_64
